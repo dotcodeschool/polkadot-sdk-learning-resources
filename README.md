@@ -1,3 +1,12 @@
+> [!CAUTION]
+> **This repository has been archived and is no longer maintained.**
+> 
+> This was a curated list of Polkadot SDK learning resources. It has not been updated since its initial commit and may contain outdated links.
+> 
+> See [dotcodeschool/frontend](https://github.com/dotcodeschool/frontend) for the current platform and up-to-date course content.
+
+---
+
 # Polkadot SDK Learning Resources
 A collection of high quality resources and repositories to learn how to build web3 applications using the Polkadot SDK
 
